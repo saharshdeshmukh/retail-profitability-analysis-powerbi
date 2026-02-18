@@ -14,7 +14,7 @@ The dashboard follows a structured analytical workflow:
 ![Executive Overview](https://github.com/saharshdeshmukh/retail-profitability-analysis-powerbi/blob/main/images/page1-overview.png)
 
 ### Category Performance
-![Category Performance]()
+![Category Performance](https://github.com/saharshdeshmukh/retail-profitability-analysis-powerbi/blob/main/images/page2-category.png)
 
 ### Product Diagnostics
 ![Product Diagnostics]()
