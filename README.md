@@ -8,6 +8,16 @@ The dashboard follows a structured analytical workflow:
 1. **Executive Overview** → Monitor overall business performance  
 2. **Category Analysis** → Identify loss-making segments  
 3. **Product Diagnostics** → Perform root-cause investigation  
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](overview.png)
+
+### Category Performance
+![Category Performance](category-analysis.png)
+
+### Product Diagnostics
+![Product Diagnostics](product-diagnostics.png)
 
 ---
 
