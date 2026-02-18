@@ -11,13 +11,13 @@ The dashboard follows a structured analytical workflow:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](overview.png)
+![Executive Overview]()
 
 ### Category Performance
-![Category Performance](category-analysis.png)
+![Category Performance]()
 
 ### Product Diagnostics
-![Product Diagnostics](product-diagnostics.png)
+![Product Diagnostics]()
 
 ---
 
