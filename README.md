@@ -1,45 +1,54 @@
-Retail Profitability & Loss Driver Analysis (Power BI)
-Overview
+# Retail Profitability & Loss Driver Analysis (Power BI)
 
-This project is an interactive Business Intelligence dashboard built in Power BI to analyze retail sales performance and identify profit leakage drivers across categories, products, and regions.
+## Overview
+This project presents an interactive **Business Intelligence dashboard** built in Power BI to analyze retail sales performance and identify profit leakage across categories, products, and regions.
 
 The dashboard follows a structured analytical workflow:
 
-Executive Overview → overall performance monitoring
+1. **Executive Overview** → Monitor overall business performance  
+2. **Category Analysis** → Identify loss-making segments  
+3. **Product Diagnostics** → Perform root-cause investigation  
 
-Category Analysis → identifying loss-making segments
+---
 
-Product Diagnostics → root-cause investigation
+## Key Analysis Performed
+- KPI tracking: Sales, Profit, Quantity, Profit Margin
+- Sales vs Profit time-series trend analysis
+- Category & Sub-category profitability comparison
+- Discount impact on profitability
+- Demand vs Profit relationship analysis
+- Regional contribution analysis
+- Drill-through product investigation
 
-Key Analysis
+---
 
-Sales, Profit, Quantity and Margin KPI tracking
+## Business Insight
+The analysis indicates that profitability decline is primarily driven by **discounting strategy and regional performance differences**, rather than lack of sales demand.
 
-Sales vs Profit trend analysis
+---
 
-Category & Sub-category profitability comparison
+## Tools & Skills Used
+- Power BI
+- DAX Measures
+- Data Modeling
+- Data Visualization
+- Business Analysis
 
-Discount impact on profit
+---
 
-Demand vs Profit behavior
+## Project Files
+- `Retail_Profitability_Dashboard.pbix` → Full interactive dashboard
+- `dashboard-preview.pdf` → Report preview
 
-Regional contribution analysis
+---
 
-Drill-through product investigation
+## How to Use
+1. Download the `.pbix` file
+2. Open using Power BI Desktop
+3. Navigate through pages using slicers and drill-through
 
-Business Insight
+---
 
-The analysis shows profit decline is mainly caused by discounting strategy and regional performance differences rather than lack of demand.
+## Author
+Saharsh Deshmukh
 
-Tools Used
-
-Power BI
-DAX
-Data Visualization
-Business Analysis
-
-Files
-
-Retail_Profitability_Dashboard.pbix → Full dashboard
-
-dashboard-preview.pdf → Report preview
